@@ -17,16 +17,19 @@
 h1{
     color:rgb(4, 133, 21);
     margin-bottom:30px;
+    text-align:center:
 
 }
 h2{
     color:crimson;
     margin-bottom:30px;
+    text-align:center:
 }
 p{
     color:rgb(136, 66, 0);
     font-size:20px;
     margin-bottom:30px;
+    text-align:center:
 }
 .container div{
     height:250px;
