@@ -34,7 +34,7 @@ p{
 .container div{
     height:250px;
     width:500px;
-    background-color: beige;
+    background-color:transparent;
     border-radius:35%;
     display:flex;
     align-items:center;
